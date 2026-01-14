@@ -1,10 +1,3 @@
-playwright
-python
-automation
-testing
-wordle
-
-
 🧩 Automated Wordle Solver (Python + Playwright)
 📌 Overview
 
